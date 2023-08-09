@@ -81,9 +81,9 @@ with col3:
                     rpg_max,
                     value=0.33)
 
-url = 'https://hitw5-acslzvyr6a-rj.a.run.app/predict'
+url = 'https://hungerwatch-xsamzamowa-rj.a.run.app/predict'
 
-if url == 'https://hitw5-acslzvyr6a-rj.a.run.app/predict':
+if url == 'https://hungerwatch-xsamzamowa-rj.a.run.app/predict':
 
     #st.markdown('Maybe you want to use your own API for the prediction, not the one provided by Le Wagon...')
     data = dict(le=le,
