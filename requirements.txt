@@ -1,0 +1,34 @@
+wheel
+nbresult
+colorama
+ipdb
+ipykernel
+yapf
+joblib
+matplotlib
+pytest
+seaborn
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.0
+scikit-learn==1.2.1
+google-cloud-storage
+db-dtypes
+pyarrow
+xgboost==1.6.2
+streamlit==1.23.1
+plotly
+
+
+# prevent bq 3+ db-dtypes package error when running training from bq
+
+python-dotenv
+psycopg2-binary
+
+# API
+fastapi
+pytz
+uvicorn
+# tests
+httpx
+pytest-asyncio

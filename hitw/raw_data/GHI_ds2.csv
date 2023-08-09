@@ -1,0 +1,122 @@
+﻿Country,2000,2007,2014,2022
+Belarus,5,5,5,5
+Bosnia & Herzegovina,9,3,6,6,5,5
+Chile,5,5,5,5
+China,13,3,7,8,5,5
+Croatia,5,5,5,5
+Estonia,5,5,5,5
+Hungary,5,5,5,5,5
+Kuwait,5,5,5,5
+Latvia,5,6,5,5,5
+Lithuania,5,4,5,5,5
+Montenegro,,5,4,5,5
+North Macedonia,7,5,7,2,5,5
+Romania,7,9,5,8,5,1,5
+Serbia,,6,1,5,8,5
+Slovak Republic,7,5,9,5,7,5
+Türkiye,10,1,5,8,5,5
+Uruguay,7,4,6,5,5,5
+Costa Rica,7,5,5,5,3
+United Arab Emirates,6,2,6,5,5,9,5,3
+Brazil,11,4,7,1,5,5,4
+Uzbekistan,24,2,15,4,8,3,5,6
+Georgia,12,3,7,8,6,1,5,7
+Mongolia,30,21,8,9,2,5,7
+Bulgaria,8,6,7,9,7,4,5,9
+Kazakhstan,11,2,11,6,5,8,5,9
+Tunisia,10,3,7,6,6,7,6,1
+Albania,20,7,15,8,9,2,6,2
+Russian Federation,10,1,7,1,6,7,6,4
+Iran (Islamic Republic of),13,7,8,8,7,4,6,5
+Saudi Arabia,11,12,2,7,4,6,7
+Argentina,6,6,5,5,5,6,8
+Algeria,14,5,11,4,8,7,6,9
+Armenia,19,3,12,1,7,3,6,9
+Moldova,18,7,20,3,6,8,6,9
+Jamaica,8,6,8,1,8,8,7
+Azerbaijan,24,9,15,3,9,3,7,5
+Ukraine,13,7,2,7,2,7,5
+Colombia,10,9,11,2,8,6,7,6
+Peru,20,6,15,7,6,7,6
+Kyrgyz Republic,18,13,6,9,4,7,8
+Paraguay,11,6,11,4,8,1,8
+Mexico,10,2,8,5,7,8,1
+Panama,18,6,14,9,4,8,1
+El Salvador,14,7,12,1,10,4,8,4
+Dominican Republic,15,13,9,9,8,8,8
+Trinidad & Tobago,11,10,7,8,8,9
+Fiji,9,5,8,5,9,3,9,2
+Morocco,15,8,12,4,9,6,9,2
+Turkmenistan,20,4,14,6,10,6,9,5
+Suriname,15,1,11,3,10,10,2
+Guyana,17,1,15,8,12,4,10,4
+Lebanon,11,6,11,2,8,7,10,5
+Jordan,10,8,7,5,7,4,10,6
+Cabo Verde,15,3,11,9,12,1,11,8
+Viet Nam,26,3,21,4,15,4,11,9
+Thailand,18,6,12,1,11,9,12
+Egypt,16,3,17,2,14,6,12,3
+Malaysia,15,4,13,8,10,9,12,5
+South Africa,18,1,17,2,12,7,12,9
+Oman,14,7,11,5,11,5,13
+Bolivia (Plurinational State of),27,7,22,14,7,13,2
+Honduras,21,8,19,2,14,1,13,4
+Mauritius,15,3,14,1,13,13,4
+Nicaragua,22,4,17,9,15,5,13,6
+Sri Lanka,21,7,18,9,17,3,13,6
+Iraq,23,8,20,8,16,6,13,7
+Ghana,28,5,22,1,15,5,13,9
+Tajikistan,40,3,32,9,20,6,13,9
+Philippines,25,19,5,18,8,14,8
+Ecuador,19,7,18,6,11,7,15,2
+Myanmar,39,9,29,4,17,9,15,6
+Senegal,34,2,22,8,17,6,15,6
+Eswatini,24,7,22,9,18,4,16,3
+Côte d'Ivoire,33,4,35,8,22,7,16,8
+Cambodia,41,1,26,1,20,1,17,1
+Gabon,20,9,20,3,16,5,17,2
+Indonesia,26,1,29,1,22,2,17,9
+Namibia,25,4,26,8,22,9,18,7
+Guatemala,28,4,24,1,21,7,18,8
+Cameroon,35,8,29,9,21,4,18,9
+Nepal,37,30,21,2,19,1
+Lao PDR,44,2,31,4,22,5,19,2
+Solomon Islands,20,1,18,1,22,3,19,4
+Bangladesh,33,9,31,3,26,3,19,6
+Venezuela (Bolivarian Republic of),14,6,10,1,8,1,19,9
+Botswana,27,7,25,8,20,5,20
+Gambia,29,26,5,22,2,20,7
+Malawi,43,3,32,5,24,1,20,7
+Mauritania,31,8,28,3,26,3,20,7
+Djibouti,44,3,35,8,27,4,21,5
+Benin,33,8,26,9,23,2,21,7
+Togo,39,3,30,2,26,1,22,8
+Mali,41,7,35,7,26,1,23,2
+Kenya,36,6,31,1,21,6,23,5
+Tanzania (United Republic of),40,8,30,9,25,5,23,6
+Burkina Faso,44,9,34,5,26,5,24,5
+Korea (DPR),39,5,29,6,27,5,24,9
+Angola,64,9,44,7,26,2,25,9
+Pakistan,36,8,32,1,29,6,26,1
+Papua New Guinea,33,6,29,9,29,26,5
+Comoros,39,5,31,7,29,1,26,9
+Rwanda,49,9,35,9,29,5,27,2
+Nigeria,40,4,32,1,28,4,27,3
+Ethiopia,53,6,42,6,27,4,27,6
+Congo (Republic of),34,7,33,7,25,3,28,1
+Sudan,,,29,3,28,8
+India,38,8,36,3,28,2,29,1
+Zambia,53,3,46,35,2,29,3
+Afghanistan,50,3,38,7,30,6,29,9
+Timor-Leste,,45,5,33,3,30,6
+Guinea-Bissau,37,7,31,30,2,30,8
+Sierra Leone,57,5,51,1,33,1,31,5
+Lesotho,32,7,29,1,29,3,32,4
+Liberia,48,2,39,34,8,32,4
+Niger,52,5,40,2,32,8,32,6
+Haiti,40,9,41,7,32,6,32,7
+Chad,50,7,49,40,7,37,2
+Dem. Rep. of the Congo,48,43,2,38,7,37,8
+Madagascar,42,5,37,2,37,3,38,7
+Central African Rep.,48,8,46,8,44,6,44
+Yemen,41,3,38,4,41,7,45,1
